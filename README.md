@@ -64,7 +64,7 @@ git clone https://github.com/yourusername/today-eat-miniapp.git
 
 | 角色 | 昵称 |
 |------|------|
-| 💡 设计 & 开发 | [yiyuanlee] |
+| 💡 设计 & 开发 | Yiyuan Lee |
 | 📦 技术栈 | 微信小程序原生框架 + TypeScript（首页） |
 
 ---
